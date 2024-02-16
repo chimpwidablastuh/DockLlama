@@ -1,5 +1,7 @@
 # DockLlama 🦙🐳
 
+![DockLlama - Bringing AI to Docker](assets/lama.webp "DockLlama Project")
+
 Welcome aboard the most exciting journey to unleash the power of Ollama models with DockLlama! If you've ever dreamed of having an open-source instance of an Ollama model at your fingertips and ready to deploy as an agnostic micro-service for any project, then pinch yourself because you're not dreaming! DockLlama is here to make that a reality. 🚀
 
 ## What's This Magic? 🌟
